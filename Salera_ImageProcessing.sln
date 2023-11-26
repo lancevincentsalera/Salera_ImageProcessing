@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salera_ImageProcessing", "Salera_ImageProcessing\Salera_ImageProcessing.csproj", "{A52C2A44-5B16-4209-9C29-0DDAF5EAFEEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A52C2A44-5B16-4209-9C29-0DDAF5EAFEEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A52C2A44-5B16-4209-9C29-0DDAF5EAFEEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A52C2A44-5B16-4209-9C29-0DDAF5EAFEEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A52C2A44-5B16-4209-9C29-0DDAF5EAFEEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EBF0DD7-022A-4A2B-95FB-8372E84CFB3A}
+	EndGlobalSection
+EndGlobal
